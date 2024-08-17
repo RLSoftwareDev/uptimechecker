@@ -4,19 +4,19 @@
     "url": "https://irldev.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/irldev.xyz.ico",
     "slug": "irldev",
-    "status": "down",
-    "uptime": "44.06%",
-    "uptimeDay": "44.06%",
-    "uptimeWeek": "44.06%",
-    "uptimeMonth": "44.06%",
-    "uptimeYear": "44.06%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "status": "up",
+    "uptime": "43.08%",
+    "uptimeDay": "43.08%",
+    "uptimeWeek": "43.08%",
+    "uptimeMonth": "43.08%",
+    "uptimeYear": "43.08%",
+    "time": 637,
+    "timeDay": 637,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-08-17": 28
+      "2024-08-17": 29
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.irldev.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.irldev.xyz.ico",
     "slug": "wwwirldev",
-    "status": "down",
-    "uptime": "44.03%",
-    "uptimeDay": "44.03%",
-    "uptimeWeek": "44.03%",
-    "uptimeMonth": "44.03%",
-    "uptimeYear": "44.03%",
-    "time": 407,
-    "timeDay": 407,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "42.99%",
+    "uptimeDay": "42.99%",
+    "uptimeWeek": "42.99%",
+    "uptimeMonth": "42.99%",
+    "uptimeYear": "42.99%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-08-17": 28
+      "2024-08-17": 29
     }
   }
 ]
