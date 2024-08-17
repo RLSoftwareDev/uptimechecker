@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/irldev.xyz.ico",
     "slug": "irldev",
     "status": "up",
-    "uptime": "43.08%",
-    "uptimeDay": "43.08%",
-    "uptimeWeek": "43.08%",
-    "uptimeMonth": "43.08%",
-    "uptimeYear": "43.08%",
+    "uptime": "46.01%",
+    "uptimeDay": "46.01%",
+    "uptimeWeek": "46.01%",
+    "uptimeMonth": "46.01%",
+    "uptimeYear": "46.01%",
     "time": 637,
     "timeDay": 637,
     "timeWeek": 637,
     "timeMonth": 637,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-08-17": 29
+      "2024-08-17": 28
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.irldev.xyz.ico",
     "slug": "wwwirldev",
     "status": "up",
-    "uptime": "42.99%",
-    "uptimeDay": "42.99%",
-    "uptimeWeek": "42.99%",
-    "uptimeMonth": "42.99%",
-    "uptimeYear": "42.99%",
+    "uptime": "45.96%",
+    "uptimeDay": "45.96%",
+    "uptimeWeek": "45.96%",
+    "uptimeMonth": "45.96%",
+    "uptimeYear": "45.96%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-08-17": 29
+      "2024-08-17": 28
     }
   }
 ]
