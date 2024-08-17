@@ -6,12 +6,12 @@ sites:
   - name: irldev
     url: https://irldev.xyz
     port: 80
-    check: "curl"
+    check: "tcp-ping"
     ipv6: false
   - name: wwwirldev
     url: https://www.irldev.xyz
     port: 80
-    check: "curl"
+    check: "tcp-ping"
     ipv6: false
 
 status-website:
