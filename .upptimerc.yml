@@ -3,13 +3,13 @@ owner: rlsoftwaredev # Your GitHub organization or username, where this reposito
 repo: uptimechecker # The name of this repository
 
 sites:
-  - name: irldev
-    url: https://irldev.xyz
+  - name: wasabich
+    url: https://wasabisushi.ch
     port: 80
     check: "curl"
     ipv6: false
-  - name: wwwirldev
-    url: https://www.irldev.xyz
+  - name: wwwwasabich
+    url: https://www.wasabisushi.ch
     port: 80
     check: "curl"
     ipv6: false
