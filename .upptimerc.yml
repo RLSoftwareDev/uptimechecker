@@ -13,6 +13,16 @@ sites:
     port: 80
     check: "curl"
     ipv6: false
+  - name: wasabi-sushibar
+    url: https://www.wasabi-sushibar.com
+    port: 80
+    check: "curl"
+    ipv6: false
+  - name: wwwwasabisushibar
+    url: https://www.wasabi-sushibar.com
+    port: 80
+    check: "curl"
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
